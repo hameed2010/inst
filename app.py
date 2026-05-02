@@ -126,7 +126,7 @@ admin = 6698161283
 CHANNEL_USERNAME = "@Hammed2k"
 UNBAN_CHANNEL = "@unband86"  # قناة الطلبات
 if not db.get("admins"):
-    db.set('admins', [admin,8382758571,267957248, ])
+    db.set('admins', [admin,387804003,])
 if not db.get('badguys'):
     db.set('badguys', [])
 
