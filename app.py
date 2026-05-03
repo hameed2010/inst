@@ -44,7 +44,7 @@ EMAIL_RECEIVERS = [
     "security@mail.instagram.com"
 ]
 bk = mk(row_width=1).add(btn(BTN_BACK, callback_data='back'))
-bot = TeleBot(token="8046993725:AAHQNJ9tzxex43_EiEhz2zvp_wzPMJMJNGU")
+bot = TeleBot(token="8046993725:AAFcHg7RZsxEW-qulYDXnBJZR3gIVPHoL_U")
 def generate_unban_message(order):
     BAN_TYPES = {
         "mzaha": "account integrity",
